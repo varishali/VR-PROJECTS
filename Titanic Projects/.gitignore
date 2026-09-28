@@ -1,0 +1,11 @@
+# Python bytecode cache folders
+__pycache__/
+*.pyc
+
+# Jupyter Notebook & VS Code checkpoints
+.ipynb_checkpoints/
+*-checkpoint.py
+
+# Optional: System generated files
+.DS_Store
+Thumbs.db
